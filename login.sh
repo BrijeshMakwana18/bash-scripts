@@ -1,4 +1,6 @@
 # Opens up terminal in specific directory
 open -a Terminal /Users/brijeshmakwana/Desktop
-#Open docker
+# Opens up docker
 open -a Docker
+# Opens up Google Chrome
+open -a Google\ Chrome
