@@ -4,3 +4,5 @@ open -a Terminal /Users/brijeshmakwana/Desktop
 open -a Docker
 # Opens up Google Chrome
 open -a Google\ Chrome
+# Opens up Safari
+open -a Safari
